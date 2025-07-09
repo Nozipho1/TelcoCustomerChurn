@@ -1,2 +1,3 @@
-# TelcoCustomerChurn
-I work with real-world data from the Telco industry with the goal to effectively predict customer churn. 
+# Telco Customer Churn
+
+Using python, I work with real-world data from the Telco industry with the goal to effectively predict customer churn. Customer churn occurs when customers decide to end their subscriptions or services with the telecom company. The goal is to create logistic regression and random forest machine learning models that can forecast customer churn. By analysing historical customer data, these models will help us determine the likelihood of a customer either leaving the service (churning) or staying with it. This predictive capability is crucial for the telecom company to implement effective retention strategies.
